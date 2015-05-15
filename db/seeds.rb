@@ -1,0 +1,6 @@
+Wine.create(name:'Chambourcin', year:'2009',winery:'612 Vineyard', country:'US',varietal:'Blanc de Noirs')
+Wine.create(name:'Sweet and Dry', year:'1995',winery:'Barefoot', country:'Austrailia',varietal:'Blanc de Blanc')
+Wine.create(name:'868 Chardonnay', year:'2011',winery:'868 Estate Vineyards', country:'US',varietal:'Merlot')
+Wine.create(name:'868 Riesling', year:'2003',winery:'868 Estate Vineyards', country:'US',varietal:'Riesling')
+Wine.create(name:'Rosewell', year:'2013',winery:'Phillip Carter Winery', country:'US',varietal:'Chardonnay Rose')
+Wine.create(name:'Nomini Hall Cabernet Franc', year:'2013',winery:'Phillip Carter Winery', country:'US',varietal:'Merlot')
